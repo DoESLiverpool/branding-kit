@@ -1,7 +1,8 @@
 # Media
 Media assets relating to DoES, includes logos, videos, gifs, video project files, etc.
 
-# Livestream Stingers
+## Contents
+### Livestream Stingers
 
 Enter the `stingers/` directory above, or click [here](https://github.com/DoESLiverpool/branding-kit/tree/master/stingers) to see the available stingers and how to use them.
 
